@@ -4,18 +4,18 @@ This project uses machine learning to predict body fat percentage based on vario
 It employs a neural network model built with TensorFlow/Keras and features a complete pipeline from data preprocessing to model evaluation.
 
 Features:
-	•	Data Preprocessing: Filters outliers using the Interquartile Range (IQR) method and normalizes the dataset for better model performance.
-	•	Neural Network Model: A custom regression model designed and trained to predict body fat percentage.
-	•	Performance Metrics: Evaluates the model using Mean Absolute Error (MAE), Mean Squared Error (MSE), and R² score.
-	•	Visualization: (Optional) Provides insights into the model’s predictions and performance using visualizations.
+- Data Preprocessing: Filters outliers using the Interquartile Range (IQR) method and normalizes the dataset for better model performance.
+- Neural Network Model: A custom regression model designed and trained to predict body fat percentage.
+- Performance Metrics: Evaluates the model using Mean Absolute Error (MAE), Mean Squared Error (MSE), and R² score.
+- Visualization: (Optional) Provides insights into the model’s predictions and performance using visualizations.
 
 Dataset:
-	•	Body Fat Percentage
-	•	Age
-	•	Weight
-	•	Height
-	•	Density
-	•	Abdomen Circumference
+- Body Fat Percentage
+- Age
+- Weight
+- Height
+- Density
+- Abdomen Circumference
 
 Findings:
 In research, the hybrid model such as "the MR-SVR achieved the best performance with an RMSE of 4.6427". 
