@@ -18,8 +18,7 @@ Dataset:
 - Abdomen Circumference
 
 Findings:
-In research, the hybrid model such as "the MR-SVR achieved the best performance with an RMSE of 4.6427". 
-In comparison, the refined model, which relies heavily upon DEEP preprocessing techniques and neural networks, obtained an RMSE of 2.8344.
+- In research, the hybrid model such as "the MR-SVR achieved the best performance with an RMSE of 4.6427". In comparison, the refined model, which relies heavily upon DEEP preprocessing techniques and neural networks, obtained an RMSE of 2.8344.
 
 Data Source:
 https://www.kaggle.com/datasets/fedesoriano/body-fat-prediction-dataset
