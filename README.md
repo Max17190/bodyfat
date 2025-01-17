@@ -19,7 +19,8 @@ It employs a neural network model built with TensorFlow/Keras and features a com
 
 ## Findings
 - In research, the hybrid model such as "the MR-SVR achieved the best performance with an RMSE of 4.6427". In comparison, the refined model, which relies heavily upon DEEP preprocessing techniques and neural networks, obtained an RMSE of 2.8344.
-- While the results of this model are amazing, I am seeking to find a reliable way to build a model that is accessible without advanced metrics such as density. Building a model which only requires measurements of key body parts which can reliable predict body fat percentage is extremely difficult. This could be due to the natural genetic differences between races which predispose groups to higher or lower body fat percentages. 
+- While the results of this model are good, I am seeking to find a reliable way to build a model that is accessible without advanced metrics such as density.
+- Current Issue: Natural genetic differences predispose groups to higher or lower body fat percentages makes it difficult for model to estimate without overfitting or underfitting
 
 ## Data Source
 https://www.kaggle.com/datasets/fedesoriano/body-fat-prediction-dataset
